@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Doodlz</string>
+    <string name="Color">Color</string>
+    <string name="Brush">Brush</string>
+    <string name="Clear">Clear</string>
+    <string name="Save">Save</string>
+    <string name="Print">Print</string>
+    <string name="Load">Load</string>
+    <string name="label_red">Red</string>
+    <string name="label_alpha">Alpha</string>
+    <string name="label_green">Green</string>
+    <string name="label_blue">Blue</string>
+    <string name="set_color">Set Color</string>
+    <string name="set_line_width">Set Line Width</string>
+</resources>

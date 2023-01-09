@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/colorId"
+        android:icon="@drawable/twotone_palette_white_18dp"
+        android:title="@string/Color"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/brushId"
+        android:icon="@drawable/twotone_brush_white_18dp"
+        android:title="@string/Brush"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/clearId"
+        android:icon="@drawable/twotone_delete_white_18dp"
+        android:title="@string/Clear"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/loadId"
+        android:icon="@drawable/twotone_folder_open_white_18dp"
+        android:title="@string/Load"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/saveId"
+        android:icon="@drawable/twotone_save_white_18dp"
+        android:title="@string/Save"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/printId"
+        android:icon="@drawable/twotone_print_white_18dp"
+        android:title="@string/Print"
+        app:showAsAction="ifRoom" />
+</menu>
